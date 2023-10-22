@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-^p(oe3*f&s0bp(jswk4_#i@g&jjx#y&d_b(sibw#1-@1psdezz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'smart-bozor-f9f56fc4a814.herokuapp.com', 'hitrocs.uz']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'smart-bozor-f9f56fc4a814.herokuapp.com', 'smart-bozor.uz', 'www.smart-bozor.uz']
 
 
 # Application definition
